@@ -1,0 +1,6 @@
+com/example/dingo/DingoApplication.class
+com/example/dingo/cqrs/login/Login.class
+com/example/dingo/cqrs/login/LoginEvt.class
+com/example/dingo/web/Endpoints.class
+com/example/dingo/cqrs/login/LoginCmd.class
+com/example/dingo/web/User.class
